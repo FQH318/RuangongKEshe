@@ -1,1 +1,181 @@
-<mxfile host="app.diagrams.net" modified="2020-11-30T21:26:35.995Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" version="13.10.2" etag="hp-BE1gsWYtKsOoyanDn" type="github"><diagram id="zrR8DExcm4aKNjjrtqkO">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-11-30T21:45:09.921Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="TnbARaniV1fawVKrLoyC" version="13.10.2" type="github">
+  <diagram id="zrR8DExcm4aKNjjrtqkO" name="第 1 页">
+    <mxGraphModel dx="1298" dy="654" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Ar5HbCy0tY25gBajxkzw-1" value="入口" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="565" y="80" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ar5HbCy0tY25gBajxkzw-2" value="用户模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="190" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ar5HbCy0tY25gBajxkzw-4" value="项目模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="190" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ar5HbCy0tY25gBajxkzw-5" value="需求模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="190" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ar5HbCy0tY25gBajxkzw-6" value="缺陷模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="190" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ar5HbCy0tY25gBajxkzw-7" value="文档模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="580" y="190" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ar5HbCy0tY25gBajxkzw-8" value="评论模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="707" y="190" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ar5HbCy0tY25gBajxkzw-9" value="变更历史模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="830" y="190" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ar5HbCy0tY25gBajxkzw-10" value="Wiki模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="960" y="190" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ar5HbCy0tY25gBajxkzw-11" value="第三方资源模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1090" y="190" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ar5HbCy0tY25gBajxkzw-12" value="风险管理模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1220" y="190" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ar5HbCy0tY25gBajxkzw-13" value="排期安排模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1350" y="190" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ar5HbCy0tY25gBajxkzw-22" value="鉴权" style="rounded=0;whiteSpace=wrap;html=1;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="20" y="300" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Ar5HbCy0tY25gBajxkzw-23" value="信息" style="rounded=0;whiteSpace=wrap;html=1;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="90" y="300" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Ar5HbCy0tY25gBajxkzw-24" value="创建" style="rounded=0;whiteSpace=wrap;html=1;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="137.5" y="312.5" width="120" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="Ar5HbCy0tY25gBajxkzw-25" value="更新" style="rounded=0;whiteSpace=wrap;html=1;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="150" y="312.5" width="120" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="Ar5HbCy0tY25gBajxkzw-26" value="增加成员" style="rounded=0;whiteSpace=wrap;html=1;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="170" y="312.5" width="120" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="Ar5HbCy0tY25gBajxkzw-27" value="删除成员" style="rounded=0;whiteSpace=wrap;html=1;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="190" y="312.5" width="120" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="Ar5HbCy0tY25gBajxkzw-28" value="创建需求" style="rounded=0;whiteSpace=wrap;html=1;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="270" y="312.5" width="120" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="Ar5HbCy0tY25gBajxkzw-29" value="更新项目文档" style="rounded=0;whiteSpace=wrap;html=1;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="210" y="312.5" width="120" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="Ar5HbCy0tY25gBajxkzw-30" value="更新需求文档内容" style="rounded=0;whiteSpace=wrap;html=1;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="290" y="312.5" width="120" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="Ar5HbCy0tY25gBajxkzw-31" value="更新需求状态" style="rounded=0;whiteSpace=wrap;html=1;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="310" y="312.5" width="120" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="Ar5HbCy0tY25gBajxkzw-32" value="创建需求评论" style="rounded=0;whiteSpace=wrap;html=1;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="330" y="312.5" width="120" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="Ar5HbCy0tY25gBajxkzw-33" value="删除需求评论" style="rounded=0;whiteSpace=wrap;html=1;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="350" y="312.5" width="120" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="Ar5HbCy0tY25gBajxkzw-34" value="更新需求类型" style="rounded=0;whiteSpace=wrap;html=1;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="370" y="312.5" width="120" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="Ar5HbCy0tY25gBajxkzw-35" value="创建缺陷" style="rounded=0;whiteSpace=wrap;html=1;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="400" y="312.5" width="120" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="Ar5HbCy0tY25gBajxkzw-36" value="更新缺陷文档" style="rounded=0;whiteSpace=wrap;html=1;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="420" y="312.5" width="120" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="Ar5HbCy0tY25gBajxkzw-37" value="更新缺陷类型" style="rounded=0;whiteSpace=wrap;html=1;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="440" y="312.5" width="120" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="Ar5HbCy0tY25gBajxkzw-38" value="更新缺陷状态" style="rounded=0;whiteSpace=wrap;html=1;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="460" y="312.5" width="120" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="Ar5HbCy0tY25gBajxkzw-39" value="添加评论" style="rounded=0;whiteSpace=wrap;html=1;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="480" y="312.5" width="120" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="Ar5HbCy0tY25gBajxkzw-40" value="删除评论" style="rounded=0;whiteSpace=wrap;html=1;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="500" y="312.5" width="120" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="Ar5HbCy0tY25gBajxkzw-41" value="创建文档" style="rounded=0;whiteSpace=wrap;html=1;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="530" y="312.5" width="120" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="Ar5HbCy0tY25gBajxkzw-42" value="更新文档" style="rounded=0;whiteSpace=wrap;html=1;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="550" y="312.5" width="120" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="Ar5HbCy0tY25gBajxkzw-44" value="创建评论" style="rounded=0;whiteSpace=wrap;html=1;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="660" y="312.5" width="120" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="Ar5HbCy0tY25gBajxkzw-45" value="获取评论列表" style="rounded=0;whiteSpace=wrap;html=1;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="680" y="312.5" width="120" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="Ar5HbCy0tY25gBajxkzw-46" value="获取文档ById" style="rounded=0;whiteSpace=wrap;html=1;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="570" y="312.5" width="120" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="Ar5HbCy0tY25gBajxkzw-48" value="删除评论" style="rounded=0;whiteSpace=wrap;html=1;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="700" y="312.5" width="120" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="Ar5HbCy0tY25gBajxkzw-49" value="创建变更历史" style="rounded=0;whiteSpace=wrap;html=1;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="780" y="312.5" width="120" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="Ar5HbCy0tY25gBajxkzw-51" value="创建文档变更历史" style="rounded=0;whiteSpace=wrap;html=1;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="800" y="312.5" width="120" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="Ar5HbCy0tY25gBajxkzw-52" value="获取变更历史列表" style="rounded=0;whiteSpace=wrap;html=1;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="820" y="312.5" width="120" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="Ar5HbCy0tY25gBajxkzw-53" value="创建Wiki" style="rounded=0;whiteSpace=wrap;html=1;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="910" y="312.5" width="120" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="Ar5HbCy0tY25gBajxkzw-54" value="更新Wiki文档内" style="rounded=0;whiteSpace=wrap;html=1;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="930" y="312.5" width="120" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="Ar5HbCy0tY25gBajxkzw-55" value="计算文档内容" style="rounded=0;whiteSpace=wrap;html=1;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="950" y="312.5" width="120" height="17.5" as="geometry" />
+        </mxCell>
+        <mxCell id="Ar5HbCy0tY25gBajxkzw-56" value="创建资源" style="rounded=0;whiteSpace=wrap;html=1;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="1040" y="312.5" width="120" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="Ar5HbCy0tY25gBajxkzw-57" value="删除资源" style="rounded=0;whiteSpace=wrap;html=1;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="1060" y="312.5" width="120" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="Ar5HbCy0tY25gBajxkzw-58" value="创建风险" style="rounded=0;whiteSpace=wrap;html=1;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="1160" y="312.5" width="120" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="Ar5HbCy0tY25gBajxkzw-59" value="修改风险文档" style="rounded=0;whiteSpace=wrap;html=1;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="1181" y="312.5" width="120" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="Ar5HbCy0tY25gBajxkzw-60" value="修改风险类别" style="rounded=0;whiteSpace=wrap;html=1;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="1200" y="312.5" width="120" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="Ar5HbCy0tY25gBajxkzw-61" value="修改风险级别" style="rounded=0;whiteSpace=wrap;html=1;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="1220" y="312.5" width="120" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="Ar5HbCy0tY25gBajxkzw-62" value="审核风险" style="rounded=0;whiteSpace=wrap;html=1;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="1241" y="312.5" width="120" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="Ar5HbCy0tY25gBajxkzw-63" value="联动停止发版" style="rounded=0;whiteSpace=wrap;html=1;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="1260" y="312.5" width="120" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="Ar5HbCy0tY25gBajxkzw-64" value="增加排期" style="rounded=0;whiteSpace=wrap;html=1;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="1301" y="313.75" width="120" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="Ar5HbCy0tY25gBajxkzw-65" value="修改排期" style="rounded=0;whiteSpace=wrap;html=1;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="1320" y="313.75" width="120" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="Ar5HbCy0tY25gBajxkzw-66" value="删除排期" style="rounded=0;whiteSpace=wrap;html=1;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="1340" y="313.75" width="120" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="Ar5HbCy0tY25gBajxkzw-67" value="图床系统" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1470" y="190" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ar5HbCy0tY25gBajxkzw-68" value="添加图片" style="rounded=0;whiteSpace=wrap;html=1;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="1430" y="312.5" width="120" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="Ar5HbCy0tY25gBajxkzw-69" value="删除图片" style="rounded=0;whiteSpace=wrap;html=1;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="1450" y="312.5" width="120" height="15" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
