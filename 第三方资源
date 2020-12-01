@@ -1,1 +1,64 @@
-<mxfile host="app.diagrams.net" modified="2020-12-01T07:34:45.303Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" version="13.10.2" etag="RXlN1cP_DqGXwmGN9GhR" type="github"><diagram id="u5QOyT2aywJ2bg7g7ejc">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-12-01T07:37:53.885Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="bMKuUDxtsXe-uZ6YPbat" version="13.10.2" type="github">
+  <diagram id="u5QOyT2aywJ2bg7g7ejc" name="第 1 页">
+    <mxGraphModel dx="1298" dy="654" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="dOFn-VOHh2z6G3oPSMoV-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="dOFn-VOHh2z6G3oPSMoV-1" target="dOFn-VOHh2z6G3oPSMoV-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dOFn-VOHh2z6G3oPSMoV-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="dOFn-VOHh2z6G3oPSMoV-1" target="dOFn-VOHh2z6G3oPSMoV-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dOFn-VOHh2z6G3oPSMoV-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="dOFn-VOHh2z6G3oPSMoV-1" target="dOFn-VOHh2z6G3oPSMoV-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dOFn-VOHh2z6G3oPSMoV-1" value="项目成员" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="225" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dOFn-VOHh2z6G3oPSMoV-4" value="资源列表" style="html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="140" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="dOFn-VOHh2z6G3oPSMoV-8" value="添加资源" style="html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="230" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="dOFn-VOHh2z6G3oPSMoV-10" value="删除资源" style="html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="320" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="dOFn-VOHh2z6G3oPSMoV-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="dOFn-VOHh2z6G3oPSMoV-14" target="dOFn-VOHh2z6G3oPSMoV-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dOFn-VOHh2z6G3oPSMoV-14" value="开始" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="450" y="90" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="dOFn-VOHh2z6G3oPSMoV-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="dOFn-VOHh2z6G3oPSMoV-15" target="dOFn-VOHh2z6G3oPSMoV-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dOFn-VOHh2z6G3oPSMoV-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="dOFn-VOHh2z6G3oPSMoV-15" target="dOFn-VOHh2z6G3oPSMoV-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dOFn-VOHh2z6G3oPSMoV-15" value="展示资源列表" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="425" y="190" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="dOFn-VOHh2z6G3oPSMoV-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="dOFn-VOHh2z6G3oPSMoV-17" target="dOFn-VOHh2z6G3oPSMoV-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dOFn-VOHh2z6G3oPSMoV-17" value="添加资源" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="425" y="290" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="dOFn-VOHh2z6G3oPSMoV-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="dOFn-VOHh2z6G3oPSMoV-18" target="dOFn-VOHh2z6G3oPSMoV-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dOFn-VOHh2z6G3oPSMoV-18" value="删除资源" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="630" y="290" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="dOFn-VOHh2z6G3oPSMoV-21" value="服务端创建资源" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="425" y="380" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="dOFn-VOHh2z6G3oPSMoV-24" value="服务端删除资源" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="630" y="380" width="150" height="50" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
