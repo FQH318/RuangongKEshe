@@ -1,1 +1,81 @@
-<mxfile host="app.diagrams.net" modified="2020-11-30T21:10:06.727Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="XLhEbij3oJ_O1Oa4WTMd" version="13.10.2" type="github"><diagram id="a45cf8ec-cd66-6f27-3ac3-be6e809c9e4a" name="Page-1">5VlNk+IqFP01LMfKlwksE40zi56qnurFW05hgpE3GFKIrc6vf0BIxxi6y6nW6WqfG8mFBHLPPSeXCwhnm8NXgZv1d14SBgKvPIBwDoLADxBUf9pybC3xNGoNlaClHdQbnuhvYo2ete5oSbaDgZJzJmkzNBa8rkkhBzYsBN8Ph604G87a4IqMDE8FZmPrP7SU69YKg6S3fyO0Wncz+zFqe5a4+FUJvqvtfCAIV+bXdm9w9yz7ots1Lvn+xBTmIJwJzmXb2hxmhGnfdm5r71u80vuybkFqedENsUXqGbOdfXmQIwBDkEKQJyCbg0xZIEgTAGOQTwHKQJbb1ctj5zFJDmrCbC03TBl81dxKwX+RGWdcKEvNazUyW1HGzkyY0apWl4VaMlH27JkISRUWqe3Y0LLU02T7NZXkqcGFnnOvIk/ZuBq9YsaFazWO1HrmzqmenpHX0gZYGNvrbgUKnTSP/DDoxtn38cZutJ7VayOHE5N161fCN0SKoxpyGIayZUAH+L4PJz+E1rg+iaVoasPYhnD18uQeRtWwSLpRXQr2hdKCLp5YNavFNx5F3hc/icdQn8NISsUDe8mFXPOK15jlvTUzwU1K691+zAPnjUX+XyLl0foc7yQfxkU7p57o1Zi1pi3fiYK8+Ur2DSQWFZFvjgzdaAnCsKTPw7XcwPeBg2YxQFOQeboB5yDNNbuyFKDQdM20UVlgClLfEA9pTp4j1rHlAS8Je+RbKinXrFlyKflG82vbtBK5ogeN2ykW51STGkM3c0c05TvJaK2GdRLstdRr9MI2h0p/GSYFlYIeJiWWeIm35OeWiGdz9yt0csTBqwwL0ZBiPnRwzHNQzPeDye1YFo6Q/n58+vHwFtyfGtPrgBmgc70cgxm55DKZePHNsEzuTzGjixUzeKdimltTIfDxZEDDaS23J09+1IY+DqLkLA7CeJjA/Nl41WhX0EfBy6u8JzAiZ9aUZkBlvjp98gBamPRpZuR8CtK56bozXS9wsb6uqE+n56KedFp9ogRJNIkjh7B7txR2V6as8FRqnoA8ApnKi+O7Q1gl7NcFOAmHACPPha8/Bhclt0K2yxvuSebRxTIPPzQxhv7/2ffRh/q+W+iZoqUeyKBJThe6DuBQtDvTuD1ZXlfigmQSTIdpyUmeeqpzcSd+A6Xzbsa28ebks7MNXl4CQB+rdK4SgCmwIUMgqAh3fzv/RvDD8dbsihzVtb9OLYeYfnZqXbxXhO/dK77T947t2KdkS8X48koFFRQN8+wwcqTZ0MWR5GZbKHR/yV4nKBdw5GOTPeTY5KjPD4rMQY/axEKQJbqRqQ/PojvxgZ/888Nwox79078SpwI44JSfjL87yLF1TW62dUWupEJBtwBZZHIJCGAO8oUpRKUGZ1OdsmkGejPfiJk+0lsK1ap0y3TNu3LH3NwV6RI2NLVsGOscpk9pEm1XK9HVrwDAcZm7w0wBgBkjjCvodOA0RFDlHw32sO+x73AeBp4EmIk5qwBXQj+CZ4oaO84bAkeNOv7zpENd9ofAbdmyP2kP8/8A</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-12-01T04:45:46.128Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="7av-8VbJB6-SPUw85ESW" version="13.10.2" type="github">
+  <diagram id="a45cf8ec-cd66-6f27-3ac3-be6e809c9e4a" name="Page-1">
+    <mxGraphModel dx="1298" dy="654" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="168" value="部署视图" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;shadow=0;fontSize=36;fontColor=#AE4132;fontStyle=0" parent="1" vertex="1">
+          <mxGeometry x="10" y="20" width="1380" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="brl-iiciFSlgCnrHo440-176" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="brl-iiciFSlgCnrHo440-172" target="brl-iiciFSlgCnrHo440-173" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="brl-iiciFSlgCnrHo440-172" value="数据库服务器" style="verticalLabelPosition=bottom;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.database_server;" parent="1" vertex="1">
+          <mxGeometry x="390" y="180" width="100" height="112.5" as="geometry" />
+        </mxCell>
+        <mxCell id="brl-iiciFSlgCnrHo440-173" value="MySQL数据库" style="verticalLabelPosition=bottom;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.database;" parent="1" vertex="1">
+          <mxGeometry x="290" y="200" width="40" height="47.06" as="geometry" />
+        </mxCell>
+        <mxCell id="brl-iiciFSlgCnrHo440-177" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="brl-iiciFSlgCnrHo440-174" target="brl-iiciFSlgCnrHo440-172" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="470" y="236" />
+              <mxPoint x="470" y="236" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="brl-iiciFSlgCnrHo440-174" value="高速缓存服务器" style="verticalLabelPosition=bottom;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.cache_server;" parent="1" vertex="1">
+          <mxGeometry x="550" y="187.5" width="74.64" height="102.5" as="geometry" />
+        </mxCell>
+        <mxCell id="brl-iiciFSlgCnrHo440-178" value="文件服务器" style="verticalLabelPosition=bottom;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.file_server;" parent="1" vertex="1">
+          <mxGeometry x="730" y="90.5" width="71" height="97" as="geometry" />
+        </mxCell>
+        <mxCell id="brl-iiciFSlgCnrHo440-180" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="brl-iiciFSlgCnrHo440-179" target="brl-iiciFSlgCnrHo440-178" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="brl-iiciFSlgCnrHo440-181" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="brl-iiciFSlgCnrHo440-179" target="brl-iiciFSlgCnrHo440-174" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="brl-iiciFSlgCnrHo440-179" value="核心服务服务器" style="verticalLabelPosition=bottom;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.web_server;" parent="1" vertex="1">
+          <mxGeometry x="727.25" y="247.06" width="76.5" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="brl-iiciFSlgCnrHo440-183" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="brl-iiciFSlgCnrHo440-182" target="brl-iiciFSlgCnrHo440-179" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="brl-iiciFSlgCnrHo440-182" value="网关服务器" style="verticalLabelPosition=bottom;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.proxy_server;" parent="1" vertex="1">
+          <mxGeometry x="727.25" y="420" width="76.5" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="brl-iiciFSlgCnrHo440-189" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="brl-iiciFSlgCnrHo440-184" target="brl-iiciFSlgCnrHo440-182" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="brl-iiciFSlgCnrHo440-184" value="" style="verticalLabelPosition=bottom;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.globe;" parent="1" vertex="1">
+          <mxGeometry x="940" y="345" width="78.5" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="brl-iiciFSlgCnrHo440-191" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="brl-iiciFSlgCnrHo440-190" target="brl-iiciFSlgCnrHo440-184" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="brl-iiciFSlgCnrHo440-190" value="用户浏览器" style="verticalLabelPosition=bottom;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.laptop_1;" parent="1" vertex="1">
+          <mxGeometry x="928" y="170" width="91" height="77" as="geometry" />
+        </mxCell>
+        <mxCell id="brl-iiciFSlgCnrHo440-192" value="说明：所有服务器&lt;br&gt;均位于内网环境" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
+          <mxGeometry x="480" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eiyiceSVqYoSoQtR2dco-174" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="eiyiceSVqYoSoQtR2dco-169" target="eiyiceSVqYoSoQtR2dco-171">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eiyiceSVqYoSoQtR2dco-169" value="i山大服务" style="verticalLabelPosition=bottom;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.web_server;" vertex="1" parent="1">
+          <mxGeometry x="501.75" y="450" width="76.5" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="eiyiceSVqYoSoQtR2dco-170" value="" style="endArrow=classic;html=1;" edge="1" parent="1" source="brl-iiciFSlgCnrHo440-179" target="eiyiceSVqYoSoQtR2dco-169">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="660" y="460" as="sourcePoint" />
+            <mxPoint x="710" y="410" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eiyiceSVqYoSoQtR2dco-171" value="山大教务系统" style="verticalLabelPosition=bottom;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.web_server;" vertex="1" parent="1">
+          <mxGeometry x="360" y="450" width="76.5" height="90" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
